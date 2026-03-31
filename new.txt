@@ -1,0 +1,6 @@
+The is my 3rd branch testing file
+
+commit 1
+
+commit 2
+
